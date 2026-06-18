@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Imran Setiadi 👋
 
-<!--
-**imransetiadi/imransetiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Overview
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=imransetiadi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Streak](https://streak-stats.demolab.com?user=imransetiadi&theme=github-dark)
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imransetiadi&theme=github-dark)
+
+## 🧾 Detailed Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imransetiadi&theme=github_dark)
+
+## 🏆 Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=imransetiadi&theme=darkhub&no-frame=true)
