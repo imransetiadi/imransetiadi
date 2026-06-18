@@ -54,6 +54,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imransetiadi&theme=github_dark&utcOffset=7" />
 </p>
 
----
-  <img src="https://komarev.com/ghpvc/?username=imransetiadi&style=for-the-badge&color=blue" />
-</p>
