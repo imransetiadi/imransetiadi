@@ -1,3 +1,5 @@
-## 📊 Activity Overview
+## 📊 Full GitHub Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imransetiadi&theme=github_dark)
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
