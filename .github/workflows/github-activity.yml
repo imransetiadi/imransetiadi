@@ -1,0 +1,107 @@
+name: GitHub Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Activity Section
+        uses: actions/github-script@v7
+        id: activity
+        with:
+          github-token: ${{ secrets.METRICS_TOKEN }}
+          script: |
+            const username = "imransetiadi";
+
+            const query = `
+            query($login: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  contributionCalendar {
+                    totalContributions
+                  }
+                  totalCommitContributions
+                  totalIssueContributions
+                  totalPullRequestContributions
+                  totalPullRequestReviewContributions
+                  restrictedContributionsCount
+                }
+              }
+            }`;
+
+            const result = await github.graphql(query, {
+              login: username
+            });
+
+            const c = result.user.contributionsCollection;
+
+            const markdown = `
+## 📊 GitHub Activity Overview
+
+| Activity | Count |
+|-----------|---------:|
+| 🟩 Total Contributions | ${c.contributionCalendar.totalContributions} |
+| 💻 Commits | ${c.totalCommitContributions} |
+| 🔀 Pull Requests | ${c.totalPullRequestContributions} |
+| 🐛 Issues | ${c.totalIssueContributions} |
+| 👀 Code Reviews | ${c.totalPullRequestReviewContributions} |
+| 🔒 Private Contributions | ${c.restrictedContributionsCount} |
+
+_Last Updated: ${new Date().toISOString()}_
+`;
+
+            core.setOutput("activity", markdown);
+
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          from pathlib import Path
+          import os
+
+          readme = Path("README.md")
+
+          START = "<!-- GITHUB_ACTIVITY_START -->"
+          END = "<!-- GITHUB_ACTIVITY_END -->"
+
+          content = os.environ["ACTIVITY"]
+
+          if not readme.exists():
+              readme.write_text("# Imran Setiadi\n")
+
+          text = readme.read_text()
+
+          block = f"{START}\n{content}\n{END}"
+
+          if START in text and END in text:
+              before = text.split(START)[0]
+              after = text.split(END)[1]
+              text = before + block + after
+          else:
+              text += "\n\n" + block
+
+          readme.write_text(text)
+          EOF
+        env:
+          ACTIVITY: ${{ steps.activity.outputs.activity }}
+
+      - name: Commit README Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Update GitHub Activity"
+
+          git push
