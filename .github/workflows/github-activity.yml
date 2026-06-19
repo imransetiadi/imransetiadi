@@ -20,7 +20,7 @@ jobs:
         uses: actions/github-script@v7
         id: github_activity
         with:
-          github-token: ${{ secrets.METRICS_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const username = "imransetiadi";
 
@@ -49,14 +49,14 @@ jobs:
               "",
               "| Activity | Count |",
               "|---|---:|",
-              `| 🟩 Total Contributions | ${c.contributionCalendar.totalContributions} |`,
-              `| 💻 Commits | ${c.totalCommitContributions} |`,
-              `| 🔀 Pull Requests | ${c.totalPullRequestContributions} |`,
-              `| 🐛 Issues | ${c.totalIssueContributions} |`,
-              `| 👀 Code Reviews | ${c.totalPullRequestReviewContributions} |`,
-              `| 🔒 Private Contributions | ${c.restrictedContributionsCount} |`,
+              "| 🟩 Total Contributions | " + c.contributionCalendar.totalContributions + " |",
+              "| 💻 Commits | " + c.totalCommitContributions + " |",
+              "| 🔀 Pull Requests | " + c.totalPullRequestContributions + " |",
+              "| 🐛 Issues | " + c.totalIssueContributions + " |",
+              "| 👀 Code Reviews | " + c.totalPullRequestReviewContributions + " |",
+              "| 🔒 Private Contributions | " + c.restrictedContributionsCount + " |",
               "",
-              `_Last updated: ${new Date().toISOString()}_`
+              "_Last updated: " + new Date().toISOString() + "_"
             ].join("\n");
 
             core.setOutput("content", markdown);
@@ -74,17 +74,12 @@ jobs:
           end = "<!-- GITHUB_ACTIVITY_END -->"
           content = os.environ["ACTIVITY_CONTENT"]
 
-          if readme.exists():
-              text = readme.read_text()
-          else:
-              text = "# Imran Setiadi\n"
+          text = readme.read_text() if readme.exists() else "# Imran Setiadi\n"
 
           block = start + "\n" + content + "\n" + end
 
           if start in text and end in text:
-              before = text.split(start)[0]
-              after = text.split(end)[1]
-              text = before + block + after
+              text = text.split(start)[0] + block + text.split(end)[1]
           else:
               text = text.rstrip() + "\n\n" + block + "\n"
 
