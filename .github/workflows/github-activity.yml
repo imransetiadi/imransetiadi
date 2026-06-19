@@ -9,88 +9,47 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Activity
+      - name: Update README activity
         uses: actions/github-script@v7
-        id: github_activity
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
+          script: >-
             const username = "imransetiadi";
-
-            const query = `
-              query($login: String!) {
-                user(login: $login) {
-                  contributionsCollection {
-                    contributionCalendar {
-                      totalContributions
-                    }
-                    totalCommitContributions
-                    totalIssueContributions
-                    totalPullRequestContributions
-                    totalPullRequestReviewContributions
-                    restrictedContributionsCount
-                  }
-                }
-              }
-            `;
-
-            const result = await github.graphql(query, { login: username });
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const query = `query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions}totalCommitContributions totalIssueContributions totalPullRequestContributions totalPullRequestReviewContributions restrictedContributionsCount}}}`;
+            const result = await github.graphql(query, {login: username});
             const c = result.user.contributionsCollection;
-
-            const markdown = [
-              "## 📊 GitHub Activity Overview",
-              "",
-              "| Activity | Count |",
-              "|---|---:|",
-              "| 🟩 Total Contributions | " + c.contributionCalendar.totalContributions + " |",
-              "| 💻 Commits | " + c.totalCommitContributions + " |",
-              "| 🔀 Pull Requests | " + c.totalPullRequestContributions + " |",
-              "| 🐛 Issues | " + c.totalIssueContributions + " |",
-              "| 👀 Code Reviews | " + c.totalPullRequestReviewContributions + " |",
-              "| 🔒 Private Contributions | " + c.restrictedContributionsCount + " |",
-              "",
-              "_Last updated: " + new Date().toISOString() + "_"
-            ].join("\n");
-
-            core.setOutput("content", markdown);
-
-      - name: Update README
-        env:
-          ACTIVITY_CONTENT: ${{ steps.github_activity.outputs.content }}
-        run: |
-          python3 - <<'PY'
-          import os
-          from pathlib import Path
-
-          readme = Path("README.md")
-          start = "<!-- GITHUB_ACTIVITY_START -->"
-          end = "<!-- GITHUB_ACTIVITY_END -->"
-          content = os.environ["ACTIVITY_CONTENT"]
-
-          text = readme.read_text() if readme.exists() else "# Imran Setiadi\n"
-
-          block = start + "\n" + content + "\n" + end
-
-          if start in text and end in text:
-              text = text.split(start)[0] + block + text.split(end)[1]
-          else:
-              text = text.rstrip() + "\n\n" + block + "\n"
-
-          readme.write_text(text)
-          PY
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet && exit 0
-          git commit -m "Update GitHub activity"
-          git push
+            const start = "<!-- GITHUB_ACTIVITY_START -->";
+            const end = "<!-- GITHUB_ACTIVITY_END -->";
+            const activity = "## 📊 GitHub Activity Overview\n\n" +
+              "| Activity | Count |\n" +
+              "|---|---:|\n" +
+              "| 🟩 Total Contributions | " + c.contributionCalendar.totalContributions + " |\n" +
+              "| 💻 Commits | " + c.totalCommitContributions + " |\n" +
+              "| 🔀 Pull Requests | " + c.totalPullRequestContributions + " |\n" +
+              "| 🐛 Issues | " + c.totalIssueContributions + " |\n" +
+              "| 👀 Code Reviews | " + c.totalPullRequestReviewContributions + " |\n" +
+              "| 🔒 Private Contributions | " + c.restrictedContributionsCount + " |\n\n" +
+              "_Last updated: " + new Date().toISOString() + "_";
+            const file = await github.rest.repos.getContent({owner, repo, path: "README.md"});
+            const oldText = Buffer.from(file.data.content, "base64").toString("utf8");
+            const block = start + "\n" + activity + "\n" + end;
+            let newText;
+            if (oldText.includes(start) && oldText.includes(end)) {
+              newText = oldText.split(start)[0] + block + oldText.split(end)[1];
+            } else {
+              newText = oldText.trimEnd() + "\n\n" + block + "\n";
+            }
+            await github.rest.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path: "README.md",
+              message: "Update GitHub activity",
+              content: Buffer.from(newText).toString("base64"),
+              sha: file.data.sha
+            });
