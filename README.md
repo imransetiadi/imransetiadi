@@ -24,9 +24,13 @@ _Last updated: 2026-06-20T02:15:44.990Z_
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=imransetiadi&theme=tokyonight&no-frame=true&margin-w=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imransetiadi&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=imransetiadi&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imransetiadi&layout=compact&theme=tokyonight)
 
 ---
 
