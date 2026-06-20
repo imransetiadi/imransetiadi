@@ -24,13 +24,6 @@ _Last updated: 2026-06-20T02:15:44.990Z_
 
 ---
 
-## 📌 Featured Project
-
-![Solatify](https://github-readme-stats.vercel.app/api/pin/?username=imransetiadi&repo=solatify&theme=tokyonight&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/imransetiadi/imransetiadi/output/github-contribution-grid-snake-dark.svg)
 
