@@ -24,16 +24,6 @@ _Last updated: 2026-06-20T02:15:44.990Z_
 
 ---
 
-## 🏆 Achievement
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imransetiadi&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=imransetiadi&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imransetiadi&layout=compact&theme=tokyonight)
-
----
-
 ## 📌 Featured Project
 
 ![Solatify](https://github-readme-stats.vercel.app/api/pin/?username=imransetiadi&repo=solatify&theme=tokyonight&hide_border=true)
