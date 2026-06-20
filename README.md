@@ -22,6 +22,8 @@ _Last updated: 2026-06-20T02:15:44.990Z_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imransetiadi&layout=compact&theme=tokyonight&hide_border=true)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imransetiadi&theme=tokyo-night&hide_border=true"/>
+
 ---
 
 
