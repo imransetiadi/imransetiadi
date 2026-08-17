@@ -5,18 +5,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=imransetiadi&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imransetiadi&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- GITHUB_ACTIVITY_START -->
-## 📊 GitHub Activity Overview
-
-| Activity | Count |
-|---|---:|
-| 🟩 Total Contributions | 17496 |
-| 💻 Commits | 17420 |
-| 🔀 Pull Requests | 68 |
-| 🐛 Issues | 0 |
-| 👀 Code Reviews | 0 |
-| 🔒 Private Contributions | 0 |
-
-_Last updated: 2026-08-17T00:36:44.448Z_
-<!-- GITHUB_ACTIVITY_END -->
