@@ -36,9 +36,7 @@
 
 | Project | What it does |
 |---|---|
-| 🦀 [**rust-ai-gateway**](https://github.com/imransetiadi/rust-ai-gateway) | OpenAI-compatible AI gateway in Rust (axum, sqlx, PostgreSQL) for Indonesian developers |
 | 🚚 [**seamless-vms-migration**](https://github.com/imransetiadi/seamless-vms-migration) | Copies VM disks while they keep running on RHOSP 17.1, OpenStack or VMware vSphere, then cuts over inside your change window |
-| 🌌 [**seamless-ai-gateway**](https://github.com/imransetiadi/seamless-ai-gateway) | Landing page for seamless.ai.id — live model catalog & IDR pricing from the gateway |
 | 🖥️ [**claude-code-mini**](https://github.com/imransetiadi/claude-code-mini) | Single-file terminal coding assistant on the Claude Agent SDK, in Bahasa Indonesia |
 | 🪪 [**anastrophe**](https://github.com/imransetiadi/anastrophe) | iOS app to store building access cards and unlock via NFC / BLE |
 | 🕌 [**solatify**](https://github.com/imransetiadi/solatify) | Modern, lightweight daily worship companion for Muslims (Flutter) |
