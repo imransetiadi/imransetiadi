@@ -48,15 +48,15 @@
 
 | 🟩 Contributions | 🔥 Current Streak | 🏆 Longest Streak | 📅 Active Days |
 |:---:|:---:|:---:|:---:|
-| **14,665**<br><sub>last 12 months</sub> | **1,290 days** 🔥🔥🔥<br><sub>since 28 Apr 2023</sub> | **1,290 days**<br><sub>ongoing 🚀</sub> | **371/371**<br><sub>100.0% of days</sub> |
+| **14,667**<br><sub>last 12 months</sub> | **1,290 days** 🔥🔥🔥<br><sub>since 28 Apr 2023</sub> | **1,290 days**<br><sub>ongoing 🚀</sub> | **371/371**<br><sub>100.0% of days</sub> |
 
 | 💻 Commits | 🔀 PRs | 🐛 Issues | 👀 Reviews | 📦 Repos Touched | 🆕 Repos Created |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **14,427** | **219** | **1** | **0** | **8** | **17** |
+| **14,429** | **219** | **1** | **0** | **8** | **17** |
 
 | 🌍 All-time | 🔀 PRs Merged | 📂 Public Repos | 🍴 Forks | ⭐ Stars Earned | 👥 Followers |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **110,635**<br><sub>since 2016</sub> | **224**<br><sub>98.7% of 227</sub> | **38** | **28** | **0** | **19** |
+| **110,638**<br><sub>since 2016</sub> | **224**<br><sub>98.7% of 227</sub> | **38** | **28** | **0** | **19** |
 
 </div>
 
@@ -69,16 +69,16 @@
 - 🔀 **224** pull requests merged all-time (98.7% merge rate)
 - 🆕 **17** new repositories created in the last 12 months
 - 📅 Active on **1,349** days in total
-- 🎂 On GitHub for **10.1 years** (since 30 Sept 2016) — **110,635** contributions all-time
+- 🎂 On GitHub for **10.1 years** (since 30 Sept 2016) — **110,638** contributions all-time
 
 ### 📈 Momentum
 
 | Period | Contributions | vs previous period | Daily avg |
 |---|---:|:---:|---:|
-| Last 7 days | **313** | 📉 -7% | 44.7 |
-| Last 30 days | **3,255** | 📈 +1229% | 108.5 |
-| Last 90 days | **4,227** | 📈 +190% | 47.0 |
-| Last 12 months | **14,665** | — | 39.5 <sub>(median 26)</sub> |
+| Last 7 days | **315** | 📉 -6% | 45.0 |
+| Last 30 days | **3,257** | 📈 +1229% | 108.6 |
+| Last 90 days | **4,229** | 📈 +190% | 47.0 |
+| Last 12 months | **14,667** | — | 39.5 <sub>(median 26)</sub> |
 
 ```text
 Weekly trend (12 mo)  ▕▄▄▄▄▄▄▃▄▃▃▃▃▃▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▂▁▁▁▁▁▁▁▂▃▂▁▁▁▁▁▄█▆▃▂▏
@@ -96,7 +96,7 @@ Tue 11-03  █░░░░░░░░░░░░░░░░░░░░░░
 Wed 11-04  ██▎░░░░░░░░░░░░░░░░░░░░░░░░░░░      9
 Thu 11-05  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      4
 Fri 11-06  ██████▍░░░░░░░░░░░░░░░░░░░░░░░     26
-Sat 11-07  █████████░░░░░░░░░░░░░░░░░░░░░     37
+Sat 11-07  █████████▌░░░░░░░░░░░░░░░░░░░░     39
 ```
 </details>
 
@@ -115,7 +115,7 @@ Jul 2026  ████▊░░░░░░░░░░░░░░░░░░�
 Aug 2026  ████████▎░░░░░░░░░░░░░░░░░░░░░     839
 Sep 2026  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░     204
 Oct 2026  ██████████████████████████████   3,043
-Nov 2026  ███▏░░░░░░░░░░░░░░░░░░░░░░░░░░     313
+Nov 2026  ███▏░░░░░░░░░░░░░░░░░░░░░░░░░░     315
 ```
 </details>
 
@@ -123,7 +123,7 @@ Nov 2026  ███▏░░░░░░░░░░░░░░░░░░░�
 <summary><b>📜 Contributions per year — 11 years on the graph</b></summary>
 
 ```text
-2026  ███████▋░░░░░░░░░░░░░░░░░░░░░░   10,173
+2026  ███████▋░░░░░░░░░░░░░░░░░░░░░░   10,176
 2025  ███████████████████████▏░░░░░░   30,552
 2024  ██████████████████████████████   39,735
 2023  ██████████████████████▋░░░░░░░   29,996
@@ -138,7 +138,7 @@ Nov 2026  ███▏░░░░░░░░░░░░░░░░░░░�
 
 | Year | Total | Commits | PRs | Issues | Reviews | Repos created |
 |---|---:|---:|---:|---:|---:|---:|
-| 2026 | 10,173 | 9,935 | 219 | 1 | 0 | 17 |
+| 2026 | 10,176 | 9,938 | 219 | 1 | 0 | 17 |
 | 2025 | 30,552 | 30,552 | 0 | 0 | 0 | 0 |
 | 2024 | 39,735 | 39,730 | 0 | 0 | 0 | 5 |
 | 2023 | 29,996 | 29,980 | 0 | 0 | 0 | 16 |
@@ -155,12 +155,12 @@ Nov 2026  ███▏░░░░░░░░░░░░░░░░░░░�
 ### ⏰ When I Code
 
 <details open>
-<summary><b>I'm an Early Bird 🐤 — 33.9% of commits happen in the morning</b></summary>
+<summary><b>I'm an Early Bird 🐤 — 33.8% of commits happen in the morning</b></summary>
 
 ```text
-🌅 Morning 06–12     365 commits  █████████████████████████   33.9 %
+🌅 Morning 06–12     365 commits  █████████████████████████   33.8 %
 🌞 Daytime 12–18     262 commits  ██████████████████░░░░░░░   24.3 %
-🌆 Evening 18–24     206 commits  ██████████████▏░░░░░░░░░░   19.1 %
+🌆 Evening 18–24     207 commits  ██████████████▏░░░░░░░░░░   19.2 %
 🌙 Night   00–06     245 commits  ████████████████▊░░░░░░░░   22.7 %
 ```
 </details>
@@ -174,25 +174,25 @@ Tuesday     1,778  ████████████████▉░░░�
 Wednesday   1,749  ████████████████▋░░░░░░░░   11.9 %
 Thursday    1,974  ██████████████████▊░░░░░░   13.5 %
 Friday      2,236  █████████████████████▏░░░   15.2 %
-Saturday    2,466  ███████████████████████▍░   16.8 %
+Saturday    2,468  ███████████████████████▍░   16.8 %
 Sunday      2,640  █████████████████████████   18.0 %
 ```
 </details>
 
 ### 🧬 Commit Anatomy
 
-<sub>Based on 1,078 recent commits across 8 repositories (last 12 months, default branches).</sub>
+<sub>Based on 1,079 recent commits across 8 repositories (last 12 months, default branches).</sub>
 
 | ➕ Lines Added | ➖ Lines Removed | 📊 Net | 📄 Files Changed | 📏 Avg Lines / Commit |
 |:---:|:---:|:---:|:---:|:---:|
-| **432,555** | **66,067** | **+366,488** | **6,367** | **463** |
+| **432,555** | **66,069** | **+366,486** | **6,368** | **462** |
 
 <details open>
 <summary><b>🏷️ Commit types (Conventional Commits)</b></summary>
 
 ```text
-🧹 chore        321  █████████████████████████   29.8 %
-🔖 other        267  ████████████████████▊░░░░   24.8 %
+🧹 chore        321  █████████████████████████   29.7 %
+🔖 other        268  ████████████████████▉░░░░   24.8 %
 📝 docs         177  █████████████▊░░░░░░░░░░░   16.4 %
 ✨ feat         167  █████████████░░░░░░░░░░░░   15.5 %
 🐛 fix           94  ███████▍░░░░░░░░░░░░░░░░░    8.7 %
@@ -224,12 +224,12 @@ CSS            130 KB  ▍░░░░░░░░░░░░░░░░░░
 
 | Repository | Language | Commits | Share | Lines (sampled) |
 |---|---|---:|---:|---:|
-| [kz](https://github.com/imransetiadi/kz) | — | 11,180 | 77.5% | +300 / −300 |
+| [kz](https://github.com/imransetiadi/kz) | — | 11,182 | 77.5% | +300 / −300 |
 | [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | 2,767 | 19.2% | +135,288 / −9,799 |
 | [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | 204 | 1.4% | +164,444 / −3,134 |
 | [solatify](https://github.com/imransetiadi/solatify) | Dart | 134 | 0.9% | +95,384 / −27,350 |
 | [about_me](https://github.com/imransetiadi/about_me) | TypeScript | 107 | 0.7% | +30,190 / −24,842 |
-| [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | 31 | 0.2% | +1,536 / −629 |
+| [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | 31 | 0.2% | +1,536 / −631 |
 | [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | 3 | 0.0% | +5,412 / −13 |
 | [ign](https://github.com/imransetiadi/ign) | — | 1 | 0.0% | +1 / −0 |
 
@@ -249,35 +249,35 @@ CSS            130 KB  ▍░░░░░░░░░░░░░░░░░░
 
 | Repository | Language | Description | Last push |
 |---|---|---|---:|
-| [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | — | 3 h ago |
-| [kz](https://github.com/imransetiadi/kz) | — | — | 5 h ago |
-| [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | — | 9 h ago |
-| [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | — | 11 h ago |
-| [about_me](https://github.com/imransetiadi/about_me) | TypeScript | — | 11 h ago |
-| [solatify](https://github.com/imransetiadi/solatify) | Dart | — | 11 h ago |
+| [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | — | 47 min ago |
+| [kz](https://github.com/imransetiadi/kz) | — | — | 3 h ago |
+| [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | — | 12 h ago |
+| [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | — | 20 h ago |
+| [about_me](https://github.com/imransetiadi/about_me) | TypeScript | — | 20 h ago |
+| [solatify](https://github.com/imransetiadi/solatify) | Dart | — | 20 h ago |
 | [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | Seamless Migrate copies disks while your VMs keep running on RHOSP 17.… | 5 d ago |
 | [ign](https://github.com/imransetiadi/ign) | — | — | 6 mo ago |
 
 ### ⚡ Recent Activity
 
-<sub>Public events (last 90 days): 🔀 Pull Request **111** · ⬆️ Push **71** · 🗑️ Delete **59** · ✨ Create **44** · 💬 Issue Comment **9** · 🚀 Release **2** · 🌍 Public **2** · 🍴 Fork **1** · ⭐ Watch **1**</sub>
+<sub>Public events (last 90 days): 🔀 Pull Request **152** · ⬆️ Push **52** · 🗑️ Delete **41** · ✨ Create **32** · 💬 Issue Comment **12** · 🐛 Issues **3** · 🚀 Release **2** · 🌍 Public **2** · 🍴 Fork **2** · ⭐ Watch **2**</sub>
 
 | | Event | When |
 |:---:|---|---:|
-| 🔀 | Merged PR [#8](https://github.com/imransetiadi/anastrophe/pull/8) in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 3 h ago |
-| 🔀 | Merged PR [#7](https://github.com/imransetiadi/anastrophe/pull/7) in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 3 h ago |
-| 🔀 | Merged PR [#6](https://github.com/imransetiadi/anastrophe/pull/6) in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 4 h ago |
-| ⬆️ | Pushed to `main` in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 11 h ago |
-| 🔀 | Merged PR [#69](https://github.com/imransetiadi/solatify/pull/69) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 11 h ago |
-| ✨ | Created branch `docs/readme-website-rc3` in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 11 h ago |
-| 🚀 | Released [v1.0.0-rc3](https://github.com/imransetiadi/solatify/releases/tag/v1.0.0-rc3) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 11 h ago |
-| 🔀 | Merged PR [#66](https://github.com/imransetiadi/solatify/pull/66) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 12 h ago |
-| 🔀 | Merged PR [#68](https://github.com/imransetiadi/solatify/pull/68) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 12 h ago |
-| ⬆️ | Pushed to `main` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 13 h ago |
-| 🌍 | Open-sourced [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) 🎉 | 13 h ago |
-| 🔀 | Merged PR [#67](https://github.com/imransetiadi/solatify/pull/67) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 1 d ago |
+| 🔀 | Merged PR [#8](https://github.com/imransetiadi/anastrophe/pull/8) in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 12 h ago |
+| 🔀 | Merged PR [#7](https://github.com/imransetiadi/anastrophe/pull/7) in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 12 h ago |
+| 🗑️ | Deleted branch `chore/repo-structure-gitignore` in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 13 h ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 13 h ago |
+| 🔀 | Merged PR [#6](https://github.com/imransetiadi/anastrophe/pull/6) in [imransetiadi/anastrophe](https://github.com/imransetiadi/anastrophe) | 13 h ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 20 h ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/about_me](https://github.com/imransetiadi/about_me) | 20 h ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 20 h ago |
+| 🔀 | Merged PR [#69](https://github.com/imransetiadi/solatify/pull/69) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 20 h ago |
+| ✨ | Created branch `docs/readme-website-rc3` in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 20 h ago |
+| 🚀 | Released [v1.0.0-rc3](https://github.com/imransetiadi/solatify/releases/tag/v1.0.0-rc3) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 20 h ago |
+| 🔀 | Merged PR [#66](https://github.com/imransetiadi/solatify/pull/66) in [imransetiadi/solatify](https://github.com/imransetiadi/solatify) | 20 h ago |
 
-<div align="center"><sub>⏱️ Auto-updated by GitHub Actions · Last update: 7 Nov 2026, 19:47 WIB</sub></div>
+<div align="center"><sub>⏱️ Auto-updated by GitHub Actions · Last update: 8 Nov 2026, 04:40 WIB</sub></div>
 <!-- GITHUB_ACTIVITY_END -->
 
 ### 🐍 Contribution Snake
