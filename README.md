@@ -48,15 +48,15 @@
 
 | 🟩 Contributions | 🔥 Current Streak | 🏆 Longest Streak | 📅 Active Days |
 |:---:|:---:|:---:|:---:|
-| **14,180**<br><sub>last 12 months</sub> | **1,293 days** 🔥🔥🔥<br><sub>since 28 Apr 2023</sub> | **1,293 days**<br><sub>ongoing 🚀</sub> | **367/367**<br><sub>100.0% of days</sub> |
+| **14,182**<br><sub>last 12 months</sub> | **1,293 days** 🔥🔥🔥<br><sub>since 28 Apr 2023</sub> | **1,293 days**<br><sub>ongoing 🚀</sub> | **367/367**<br><sub>100.0% of days</sub> |
 
 | 💻 Commits | 🔀 PRs | 🐛 Issues | 👀 Reviews | 📦 Repos Touched | 🆕 Repos Created |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **13,924** | **237** | **1** | **0** | **8** | **17** |
+| **13,926** | **237** | **1** | **0** | **8** | **17** |
 
 | 🌍 All-time | 🔀 PRs Merged | 📂 Public Repos | 🍴 Forks | ⭐ Stars Earned | 👥 Followers |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **110,728**<br><sub>since 2016</sub> | **242**<br><sub>98.8% of 245</sub> | **38** | **28** | **0** | **19** |
+| **110,730**<br><sub>since 2016</sub> | **242**<br><sub>98.8% of 245</sub> | **38** | **28** | **0** | **19** |
 
 </div>
 
@@ -69,16 +69,16 @@
 - 🔀 **242** pull requests merged all-time (98.8% merge rate)
 - 🆕 **17** new repositories created in the last 12 months
 - 📅 Active on **1,352** days in total
-- 🎂 On GitHub for **10.1 years** (since 30 Sept 2016) — **110,728** contributions all-time
+- 🎂 On GitHub for **10.1 years** (since 30 Sept 2016) — **110,730** contributions all-time
 
 ### 📈 Momentum
 
 | Period | Contributions | vs previous period | Daily avg |
 |---|---:|:---:|---:|
-| Last 7 days | **169** | 📉 -70% | 24.1 |
-| Last 30 days | **2,525** | 📈 +141% | 84.2 |
-| Last 90 days | **4,252** | 📈 +186% | 47.2 |
-| Last 12 months | **14,180** | — | 38.6 <sub>(median 26)</sub> |
+| Last 7 days | **171** | 📉 -69% | 24.4 |
+| Last 30 days | **2,527** | 📈 +141% | 84.2 |
+| Last 90 days | **4,254** | 📈 +186% | 47.3 |
+| Last 12 months | **14,182** | — | 38.6 <sub>(median 26)</sub> |
 
 ```text
 Weekly trend (12 mo)  ▕▄▄▄▄▄▃▄▃▃▃▃▃▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▂▁▁▁▁▁▁▁▂▃▂▁▁▁▁▁▄█▆▃▂▁▏
@@ -96,7 +96,7 @@ Fri 11-06  ███████████████▉░░░░░░░
 Sat 11-07  ████████████████████████▌░░░░░     40
 Sun 11-08  ███████████████████████▎░░░░░░     38
 Mon 11-09  ██████████████████████████████     49
-Tue 11-10  █▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░      3
+Tue 11-10  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░      5
 ```
 </details>
 
@@ -115,7 +115,7 @@ Jul 2026  ████▊░░░░░░░░░░░░░░░░░░�
 Aug 2026  ████████▎░░░░░░░░░░░░░░░░░░░░░     839
 Sep 2026  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░     204
 Oct 2026  ██████████████████████████████   3,043
-Nov 2026  ████░░░░░░░░░░░░░░░░░░░░░░░░░░     406
+Nov 2026  ████░░░░░░░░░░░░░░░░░░░░░░░░░░     408
 ```
 </details>
 
@@ -123,7 +123,7 @@ Nov 2026  ████░░░░░░░░░░░░░░░░░░░�
 <summary><b>📜 Contributions per year — 11 years on the graph</b></summary>
 
 ```text
-2026  ███████▊░░░░░░░░░░░░░░░░░░░░░░   10,266
+2026  ███████▊░░░░░░░░░░░░░░░░░░░░░░   10,268
 2025  ███████████████████████▏░░░░░░   30,552
 2024  ██████████████████████████████   39,735
 2023  ██████████████████████▋░░░░░░░   29,996
@@ -138,7 +138,7 @@ Nov 2026  ████░░░░░░░░░░░░░░░░░░░�
 
 | Year | Total | Commits | PRs | Issues | Reviews | Repos created |
 |---|---:|---:|---:|---:|---:|---:|
-| 2026 | 10,266 | 10,010 | 237 | 1 | 0 | 17 |
+| 2026 | 10,268 | 10,012 | 237 | 1 | 0 | 17 |
 | 2025 | 30,552 | 30,552 | 0 | 0 | 0 | 0 |
 | 2024 | 39,735 | 39,730 | 0 | 0 | 0 | 5 |
 | 2023 | 29,996 | 29,980 | 0 | 0 | 0 | 16 |
@@ -158,10 +158,10 @@ Nov 2026  ████░░░░░░░░░░░░░░░░░░░�
 <summary><b>I'm an Early Bird 🐤 — 34.6% of commits happen in the morning</b></summary>
 
 ```text
-🌅 Morning 06–12     385 commits  █████████████████████████   34.6 %
-🌞 Daytime 12–18     264 commits  █████████████████▏░░░░░░░   23.7 %
-🌆 Evening 18–24     205 commits  █████████████▎░░░░░░░░░░░   18.4 %
-🌙 Night   00–06     260 commits  ████████████████▉░░░░░░░░   23.3 %
+🌅 Morning 06–12     386 commits  █████████████████████████   34.6 %
+🌞 Daytime 12–18     265 commits  █████████████████▏░░░░░░░   23.8 %
+🌆 Evening 18–24     204 commits  █████████████▎░░░░░░░░░░░   18.3 %
+🌙 Night   00–06     259 commits  ████████████████▊░░░░░░░░   23.2 %
 ```
 </details>
 
@@ -169,8 +169,8 @@ Nov 2026  ████░░░░░░░░░░░░░░░░░░░�
 <summary><b>📅 Most productive on Sundays · 35.0% of work happens on weekends</b></summary>
 
 ```text
-Monday      1,794  █████████████████▍░░░░░░░   12.7 %
-Tuesday     1,704  ████████████████▌░░░░░░░░   12.0 %
+Monday      1,794  █████████████████▍░░░░░░░   12.6 %
+Tuesday     1,706  ████████████████▌░░░░░░░░   12.0 %
 Wednesday   1,672  ████████████████▏░░░░░░░░   11.8 %
 Thursday    1,899  ██████████████████▍░░░░░░   13.4 %
 Friday      2,152  ████████████████████▉░░░░   15.2 %
@@ -224,7 +224,7 @@ CSS            130 KB  ▍░░░░░░░░░░░░░░░░░░
 
 | Repository | Language | Commits | Share | Lines (sampled) |
 |---|---|---:|---:|---:|
-| [kz](https://github.com/imransetiadi/kz) | — | 10,613 | 76.2% | +300 / −300 |
+| [kz](https://github.com/imransetiadi/kz) | — | 10,615 | 76.2% | +300 / −300 |
 | [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | 2,795 | 20.1% | +125,863 / −9,484 |
 | [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | 204 | 1.5% | +164,444 / −3,134 |
 | [solatify](https://github.com/imransetiadi/solatify) | Dart | 155 | 1.1% | +106,732 / −30,276 |
@@ -249,35 +249,35 @@ CSS            130 KB  ▍░░░░░░░░░░░░░░░░░░
 
 | Repository | Language | Description | Last push |
 |---|---|---|---:|
-| [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | — | 3 h ago |
-| [kz](https://github.com/imransetiadi/kz) | — | — | 5 h ago |
+| [kz](https://github.com/imransetiadi/kz) | — | — | 4 h ago |
 | [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | — | 10 h ago |
-| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | Seamless Migrate copies disks while your VMs keep running on RHOSP 17.… | 1 d ago |
+| [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | — | 17 h ago |
+| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | Seamless Migrate copies disks while your VMs keep running on RHOSP 17.… | 2 d ago |
 | [solatify](https://github.com/imransetiadi/solatify) | Dart | — | 2 d ago |
 | [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | — | 3 d ago |
-| [about_me](https://github.com/imransetiadi/about_me) | TypeScript | — | 3 d ago |
+| [about_me](https://github.com/imransetiadi/about_me) | TypeScript | — | 4 d ago |
 | [ign](https://github.com/imransetiadi/ign) | — | — | 6 mo ago |
 
 ### ⚡ Recent Activity
 
-<sub>Public events (last 90 days): 🔀 Pull Request **177** · ⬆️ Push **41** · ✨ Create **32** · 🗑️ Delete **29** · 💬 Issue Comment **13** · 🚀 Release **4** · 🌍 Public **2** · 🍴 Fork **1** · ⭐ Watch **1**</sub>
+<sub>Public events (last 90 days): 🔀 Pull Request **165** · ⬆️ Push **48** · ✨ Create **34** · 🗑️ Delete **33** · 💬 Issue Comment **12** · 🚀 Release **4** · 🌍 Public **2** · 🍴 Fork **1** · ⭐ Watch **1**</sub>
 
 | | Event | When |
 |:---:|---|---:|
-| 🗑️ | Deleted branch `ci/copy-history` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 13 h ago |
-| 🗑️ | Deleted branch `ci/windows-bash` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 14 h ago |
-| ⬆️ | Pushed to `main` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 14 h ago |
-| ✨ | Created branch `ci/windows-bash` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 14 h ago |
-| 🗑️ | Deleted branch `ci/installer` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 14 h ago |
-| ✨ | Created branch `ci/readme-tutorial` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 15 h ago |
-| ✨ | Created branch `ci/gui` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 15 h ago |
-| 🗑️ | Deleted branch `ci/windows-test` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 16 h ago |
-| 🗑️ | Deleted branch `ci/tests` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 16 h ago |
-| ✨ | Created branch `ci/windows-test` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 16 h ago |
-| 🗑️ | Deleted branch `chore/dependabot-ignore-eslint-10` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 1 d ago |
-| ⬆️ | Pushed to `main` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 1 d ago |
+| 🗑️ | Deleted branch `ci/gui-improvements-1-5` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 17 h ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 17 h ago |
+| ✨ | Created branch `ci/gui-hide-sidebar` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 17 h ago |
+| 🗑️ | Deleted branch `ci/gui-clean-view` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 17 h ago |
+| ✨ | Created branch `ci/gui-clean-view` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 17 h ago |
+| 🗑️ | Deleted branch `ci/copy-history` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
+| 🗑️ | Deleted branch `ci/windows-bash` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
+| ✨ | Created branch `ci/windows-bash` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
+| 🗑️ | Deleted branch `ci/installer` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
+| ✨ | Created branch `ci/installer` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
+| 🗑️ | Deleted branch `ci/readme-tutorial` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
+| ✨ | Created branch `ci/readme-tutorial` in [imransetiadi/claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | 1 d ago |
 
-<div align="center"><sub>⏱️ Auto-updated by GitHub Actions · Last update: 10 Nov 2026, 08:24 WIB</sub></div>
+<div align="center"><sub>⏱️ Auto-updated by GitHub Actions · Last update: 10 Nov 2026, 21:41 WIB</sub></div>
 <!-- GITHUB_ACTIVITY_END -->
 
 ### 🐍 Contribution Snake
