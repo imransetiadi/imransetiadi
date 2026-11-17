@@ -40,6 +40,7 @@
 | 🖥️ [**claude-code-mini**](https://github.com/imransetiadi/claude-code-mini) | Single-file terminal coding assistant on the Claude Agent SDK, in Bahasa Indonesia |
 | 🪪 [**anastrophe**](https://github.com/imransetiadi/anastrophe) | iOS app to store building access cards and unlock via NFC / BLE |
 | 🕌 [**solatify**](https://github.com/imransetiadi/solatify) | Modern, lightweight daily worship companion for Muslims (Flutter) |
+| 🛡️ [**antireverse**](https://github.com/imransetiadi/antireverse) | Airverse: SaaS platform that protects digital products against reverse engineering, tampering, cloning and automated abuse, then proves it with authorized attacks |
 
 <!-- GITHUB_ACTIVITY_START -->
 ## 📊 GitHub Activity
