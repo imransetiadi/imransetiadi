@@ -49,41 +49,41 @@
 
 | 🟩 Contributions | 🔥 Current Streak | 🏆 Longest Streak | 📅 Active Days |
 |:---:|:---:|:---:|:---:|
-| **13,677**<br><sub>last 12 months</sub> | **1,300 days** 🔥🔥🔥<br><sub>since 28 Apr 2023</sub> | **1,300 days**<br><sub>ongoing 🚀</sub> | **367/368**<br><sub>99.7% of days</sub> |
+| **13,688**<br><sub>last 12 months</sub> | **1,301 days** 🔥🔥🔥<br><sub>since 28 Apr 2023</sub> | **1,301 days**<br><sub>ongoing 🚀</sub> | **368/368**<br><sub>100.0% of days</sub> |
 
 | 💻 Commits | 🔀 PRs | 🐛 Issues | 👀 Reviews | 📦 Repos Touched | 🆕 Repos Created |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **13,418** | **238** | **1** | **1** | **9** | **18** |
+| **13,425** | **240** | **1** | **1** | **9** | **20** |
 
 | 🌍 All-time | 🔀 PRs Merged | 📂 Public Repos | 🍴 Forks | ⭐ Stars Earned | 👥 Followers |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **110,794**<br><sub>since 2016</sub> | **243**<br><sub>98.8% of 246</sub> | **39** | **28** | **0** | **19** |
+| **110,805**<br><sub>since 2016</sub> | **245**<br><sub>98.8% of 248</sub> | **39** | **30** | **0** | **19** |
 
 </div>
 
 ### 🏅 Highlights
 
-- 🔥 **1,300-day** contribution streak and counting (since 28 Apr 2023)
+- 🔥 **1,301-day** contribution streak and counting (since 28 Apr 2023)
 - ⚡ Best single day: **392** contributions on 11 Oct 2026
 - 📆 Best week: **1,271** contributions (week of 11 Oct 2026)
 - 🗓️ Best month: **3,043** contributions in Oct 2026
-- 🔀 **243** pull requests merged all-time (98.8% merge rate)
-- 🆕 **18** new repositories created in the last 12 months
-- 📅 Active on **1,359** days in total
-- 🎂 On GitHub for **10.1 years** (since 30 Sept 2016) — **110,794** contributions all-time
+- 🔀 **245** pull requests merged all-time (98.8% merge rate)
+- 🆕 **20** new repositories created in the last 12 months
+- 📅 Active on **1,360** days in total
+- 🎂 On GitHub for **10.1 years** (since 30 Sept 2016) — **110,805** contributions all-time
 
 ### 📈 Momentum
 
 | Period | Contributions | vs previous period | Daily avg |
 |---|---:|:---:|---:|
-| Last 7 days | **51** | 📉 -71% | 7.3 |
-| Last 30 days | **1,416** | 📉 -35% | 47.2 |
-| Last 90 days | **3,986** | 📈 +132% | 44.3 |
-| Last 12 months | **13,677** | — | 37.2 <sub>(median 24)</sub> |
+| Last 7 days | **62** | 📉 -65% | 8.9 |
+| Last 30 days | **1,427** | 📉 -34% | 47.6 |
+| Last 90 days | **3,997** | 📈 +132% | 44.4 |
+| Last 12 months | **13,688** | — | 37.2 <sub>(median 24)</sub> |
 
 ```text
 Weekly trend (12 mo)  ▕▄▄▄▄▃▄▃▃▃▃▃▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▂▁▁▁▁▁▁▁▂▃▂▁▁▁▁▁▄█▆▃▂▁▁▏
-Daily  trend (30 d)   ▕█▄▄▇▂▁▁▁▁█▄▁▅▅▁▁▁▁▂▂▂▁▁▁▁▁▁▁▁·▏
+Daily  trend (30 d)   ▕█▄▄▇▂▁▁▁▁█▄▁▅▅▁▁▁▁▂▂▂▁▁▁▁▁▁▁▁▁▏
 Hourly commits (WIB)  ▕▃▄▅▄▅▅▇██▆▅▄▄▇▅▃▄▄▆▅▄▂▂▂▏  00h → 23h, peak at 07:00
 ```
 
@@ -97,7 +97,7 @@ Sat 11-14  ███████████████████████
 Sun 11-15  █████████████████▏░░░░░░░░░░░░      8
 Mon 11-16  ██████▍░░░░░░░░░░░░░░░░░░░░░░░      3
 Tue 11-17  █████████████████████████▊░░░░     12
-Wed 11-18  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      0
+Wed 11-18  ███████████████████████▋░░░░░░     11
 ```
 </details>
 
@@ -116,7 +116,7 @@ Jul 2026  ████▊░░░░░░░░░░░░░░░░░░�
 Aug 2026  ████████▎░░░░░░░░░░░░░░░░░░░░░     839
 Sep 2026  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░     204
 Oct 2026  ██████████████████████████████   3,043
-Nov 2026  ████▋░░░░░░░░░░░░░░░░░░░░░░░░░     472
+Nov 2026  ████▊░░░░░░░░░░░░░░░░░░░░░░░░░     483
 ```
 </details>
 
@@ -124,7 +124,7 @@ Nov 2026  ████▋░░░░░░░░░░░░░░░░░░�
 <summary><b>📜 Contributions per year — 11 years on the graph</b></summary>
 
 ```text
-2026  ███████▊░░░░░░░░░░░░░░░░░░░░░░   10,332
+2026  ███████▊░░░░░░░░░░░░░░░░░░░░░░   10,343
 2025  ███████████████████████▏░░░░░░   30,552
 2024  ██████████████████████████████   39,735
 2023  ██████████████████████▋░░░░░░░   29,996
@@ -139,7 +139,7 @@ Nov 2026  ████▋░░░░░░░░░░░░░░░░░░�
 
 | Year | Total | Commits | PRs | Issues | Reviews | Repos created |
 |---|---:|---:|---:|---:|---:|---:|
-| 2026 | 10,332 | 10,073 | 238 | 1 | 1 | 18 |
+| 2026 | 10,343 | 10,080 | 240 | 1 | 1 | 20 |
 | 2025 | 30,552 | 30,552 | 0 | 0 | 0 | 0 |
 | 2024 | 39,735 | 39,730 | 0 | 0 | 0 | 5 |
 | 2023 | 29,996 | 29,980 | 0 | 0 | 0 | 16 |
@@ -156,24 +156,24 @@ Nov 2026  ████▋░░░░░░░░░░░░░░░░░░�
 ### ⏰ When I Code
 
 <details open>
-<summary><b>I'm an Early Bird 🐤 — 34.8% of commits happen in the morning</b></summary>
+<summary><b>I'm an Early Bird 🐤 — 35.0% of commits happen in the morning</b></summary>
 
 ```text
-🌅 Morning 06–12     398 commits  █████████████████████████   34.8 %
-🌞 Daytime 12–18     271 commits  █████████████████░░░░░░░░   23.7 %
-🌆 Evening 18–24     217 commits  █████████████▋░░░░░░░░░░░   19.0 %
-🌙 Night   00–06     257 commits  ████████████████▏░░░░░░░░   22.5 %
+🌅 Morning 06–12     401 commits  █████████████████████████   35.0 %
+🌞 Daytime 12–18     273 commits  █████████████████░░░░░░░░   23.8 %
+🌆 Evening 18–24     218 commits  █████████████▋░░░░░░░░░░░   19.0 %
+🌙 Night   00–06     254 commits  ███████████████▉░░░░░░░░░   22.2 %
 ```
 </details>
 
 <details open>
-<summary><b>📅 Most productive on Sundays · 35.1% of work happens on weekends</b></summary>
+<summary><b>📅 Most productive on Sundays · 35.0% of work happens on weekends</b></summary>
 
 ```text
 Monday      1,721  █████████████████▎░░░░░░░   12.6 %
 Tuesday     1,643  ████████████████▍░░░░░░░░   12.0 %
-Wednesday   1,608  ████████████████▏░░░░░░░░   11.8 %
-Thursday    1,827  ██████████████████▎░░░░░░   13.4 %
+Wednesday   1,619  ████████████████▎░░░░░░░░   11.8 %
+Thursday    1,827  ██████████████████▎░░░░░░   13.3 %
 Friday      2,082  ████████████████████▉░░░░   15.2 %
 Saturday    2,297  ███████████████████████░░   16.8 %
 Sunday      2,499  █████████████████████████   18.3 %
@@ -182,21 +182,21 @@ Sunday      2,499  ████████████████████�
 
 ### 🧬 Commit Anatomy
 
-<sub>Based on 1,143 recent commits across 9 repositories (last 12 months, default branches).</sub>
+<sub>Based on 1,146 recent commits across 9 repositories (last 12 months, default branches).</sub>
 
 | ➕ Lines Added | ➖ Lines Removed | 📊 Net | 📄 Files Changed | 📏 Avg Lines / Commit |
 |:---:|:---:|:---:|:---:|:---:|
-| **683,063** | **72,427** | **+610,636** | **8,588** | **661** |
+| **686,210** | **72,881** | **+613,329** | **8,657** | **662** |
 
 <details open>
 <summary><b>🏷️ Commit types (Conventional Commits)</b></summary>
 
 ```text
-🔖 other        330  █████████████████████████   28.9 %
-🧹 chore        325  ████████████████████████▋   28.4 %
-📝 docs         171  █████████████░░░░░░░░░░░░   15.0 %
-✨ feat         158  ████████████░░░░░░░░░░░░░   13.8 %
-🐛 fix          109  ████████▎░░░░░░░░░░░░░░░░    9.5 %
+🔖 other        332  █████████████████████████   29.0 %
+🧹 chore        325  ████████████████████████▌   28.4 %
+📝 docs         170  ████████████▊░░░░░░░░░░░░   14.8 %
+✨ feat         159  ████████████░░░░░░░░░░░░░   13.9 %
+🐛 fix          110  ████████▎░░░░░░░░░░░░░░░░    9.6 %
 🧪 test          25  █▉░░░░░░░░░░░░░░░░░░░░░░░    2.2 %
 🎨 style         14  █░░░░░░░░░░░░░░░░░░░░░░░░    1.2 %
 🤖 ci             4  ▎░░░░░░░░░░░░░░░░░░░░░░░░    0.3 %
@@ -211,12 +211,12 @@ Sunday      2,499  ████████████████████�
 ### 💬 Languages
 
 ```text
-TypeScript    12.8 MB  █████████████████████████   50.2 %
-Python         8.2 MB  ████████████████░░░░░░░░░   32.1 %
-Dart           1.3 MB  ██▌░░░░░░░░░░░░░░░░░░░░░░    4.9 %
+TypeScript    12.9 MB  █████████████████████████   50.5 %
+Python         8.2 MB  ███████████████▊░░░░░░░░░   31.9 %
+Dart           1.3 MB  ██▍░░░░░░░░░░░░░░░░░░░░░░    4.9 %
 Swift          764 KB  █▌░░░░░░░░░░░░░░░░░░░░░░░    3.0 %
 Go             746 KB  █▌░░░░░░░░░░░░░░░░░░░░░░░    2.9 %
-Java           524 KB  █░░░░░░░░░░░░░░░░░░░░░░░░    2.1 %
+Java           524 KB  █░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
 JavaScript     449 KB  ▉░░░░░░░░░░░░░░░░░░░░░░░░    1.8 %
 Shell          267 KB  ▌░░░░░░░░░░░░░░░░░░░░░░░░    1.0 %
 ```
@@ -225,13 +225,13 @@ Shell          267 KB  ▌░░░░░░░░░░░░░░░░░░
 
 | Repository | Language | Commits | Share | Lines (sampled) |
 |---|---|---:|---:|---:|
-| [kz](https://github.com/imransetiadi/kz) | — | 10,074 | 75.1% | +300 / −300 |
-| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | 2,799 | 20.9% | +126,519 / −9,752 |
+| [kz](https://github.com/imransetiadi/kz) | — | 10,076 | 75.1% | +300 / −300 |
+| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | 2,801 | 20.9% | +126,059 / −9,870 |
 | [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | 204 | 1.5% | +164,444 / −3,134 |
 | [solatify](https://github.com/imransetiadi/solatify) | Dart | 155 | 1.2% | +106,732 / −30,276 |
 | [about_me](https://github.com/imransetiadi/about_me) | TypeScript | 107 | 0.8% | +30,190 / −24,842 |
 | [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | 33 | 0.2% | +1,537 / −631 |
-| [antireverse](https://github.com/imransetiadi/antireverse) | TypeScript | 27 | 0.2% | +239,287 / −2,794 |
+| [antireverse](https://github.com/imransetiadi/antireverse) | TypeScript | 30 | 0.2% | +242,894 / −3,130 |
 | [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | 18 | 0.1% | +14,053 / −698 |
 
 <details>
@@ -239,7 +239,7 @@ Shell          267 KB  ▌░░░░░░░░░░░░░░░░░░
 
 | Repository | PRs |
 |---|---:|
-| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 148 |
+| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 150 |
 | [solatify](https://github.com/imransetiadi/solatify) | 79 |
 | [anastrophe](https://github.com/imransetiadi/anastrophe) | 8 |
 | [about_me](https://github.com/imransetiadi/about_me) | 3 |
@@ -250,35 +250,35 @@ Shell          267 KB  ▌░░░░░░░░░░░░░░░░░░
 
 | Repository | Language | Description | Last push |
 |---|---|---|---:|
-| [kz](https://github.com/imransetiadi/kz) | — | — | 5 h ago |
-| [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | — | 9 h ago |
-| [antireverse](https://github.com/imransetiadi/antireverse) | TypeScript | — | 9 h ago |
-| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | Seamless Migrate copies disks while your VMs keep running on RHOSP 17.… | 14 h ago |
+| [seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | Python | Seamless Migrate copies disks while your VMs keep running on RHOSP 17.… | 4 h ago |
+| [antireverse](https://github.com/imransetiadi/antireverse) | TypeScript | — | 5 h ago |
+| [kz](https://github.com/imransetiadi/kz) | — | — | 6 h ago |
+| [imransetiadi](https://github.com/imransetiadi/imransetiadi) | — | — | 11 h ago |
 | [claude-code-mini](https://github.com/imransetiadi/claude-code-mini) | Python | — | 6 d ago |
 | [solatify](https://github.com/imransetiadi/solatify) | Dart | — | 10 d ago |
 | [anastrophe](https://github.com/imransetiadi/anastrophe) | Swift | — | 11 d ago |
-| [about_me](https://github.com/imransetiadi/about_me) | TypeScript | — | 11 d ago |
+| [about_me](https://github.com/imransetiadi/about_me) | TypeScript | — | 12 d ago |
 
 ### ⚡ Recent Activity
 
-<sub>Public events (last 90 days): 🔀 Pull Request **162** · 💬 Issue Comment **34** · ⬆️ Push **26** · 🗑️ Delete **24** · ✨ Create **17** · 🚀 Release **5** · 🌍 Public **3** · 🍴 Fork **3** · ⭐ Watch **3** · 🐛 Issues **3** · 👀 Pull Request Review **1**</sub>
+<sub>Public events (last 90 days): 🔀 Pull Request **166** · 💬 Issue Comment **34** · ⬆️ Push **26** · 🗑️ Delete **24** · ✨ Create **13** · 🚀 Release **5** · 🍴 Fork **4** · ⭐ Watch **3** · 🌍 Public **3** · 🐛 Issues **3** · 👀 Pull Request Review **1**</sub>
 
 | | Event | When |
 |:---:|---|---:|
-| ⬆️ | Pushed to `main` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 14 h ago |
-| 🔀 | Merged PR [#211](https://github.com/imransetiadi/seamless-vms-migration/pull/211) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 14 h ago |
-| ✨ | Created branch `fix/dashboard-uiux-audit-2026-11-17` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 15 h ago |
-| 👀 | Reviewed PR [#210](https://github.com/imransetiadi/seamless-vms-migration/pull/210) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 16 h ago |
-| 🗑️ | Deleted branch `dependabot/npm_and_yarn/dashboard/jsdom-31.0.1` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 23 h ago |
-| 🗑️ | Deleted branch `dependabot/uv/seamless/dnspython-2.9.2` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 3 d ago |
-| 🔀 | Closed PR [#206](https://github.com/imransetiadi/seamless-vms-migration/pull/206) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 4 d ago |
-| 🗑️ | Deleted branch `dependabot/pip/collection-tooling-625ba24d0e` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 5 d ago |
-| 🗑️ | Deleted branch `dependabot/npm_and_yarn/dashboard/dashboard-baba14b760` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 5 d ago |
-| 🗑️ | Deleted branch `dependabot/github_actions/github/codeql-action/analyze-4.39.3` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 5 d ago |
-| 🗑️ | Deleted branch `dependabot/pip/collection-tooling-917969c5ef` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 5 d ago |
-| 🗑️ | Deleted branch `dependabot/npm_and_yarn/dashboard/dashboard-d5e73d7199` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 5 d ago |
+| 🔀 | Merged PR [#213](https://github.com/imransetiadi/seamless-vms-migration/pull/213) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 4 h ago |
+| 🔀 | Merged PR [#212](https://github.com/imransetiadi/seamless-vms-migration/pull/212) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 12 h ago |
+| 🍴 | Forked [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 14 h ago |
+| 🍴 | Forked [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 14 h ago |
+| ⭐ | Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 14 h ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/antireverse](https://github.com/imransetiadi/antireverse) | 1 d ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/imransetiadi](https://github.com/imransetiadi/imransetiadi) | 1 d ago |
+| ⬆️ | Pushed to `main` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 1 d ago |
+| 🔀 | Merged PR [#211](https://github.com/imransetiadi/seamless-vms-migration/pull/211) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 1 d ago |
+| ✨ | Created branch `fix/dashboard-uiux-audit-2026-11-17` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 1 d ago |
+| 👀 | Reviewed PR [#210](https://github.com/imransetiadi/seamless-vms-migration/pull/210) in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 1 d ago |
+| 🗑️ | Deleted branch `dependabot/npm_and_yarn/dashboard/jsdom-31.0.1` in [imransetiadi/seamless-vms-migration](https://github.com/imransetiadi/seamless-vms-migration) | 2 d ago |
 
-<div align="center"><sub>⏱️ Auto-updated by GitHub Actions · Last update: 18 Nov 2026, 07:51 WIB</sub></div>
+<div align="center"><sub>⏱️ Auto-updated by GitHub Actions · Last update: 18 Nov 2026, 22:28 WIB</sub></div>
 <!-- GITHUB_ACTIVITY_END -->
 
 ### 🐍 Contribution Snake
